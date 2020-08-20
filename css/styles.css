@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*
+styling of navigation bar
+*/
+.main{
+    background-color: black;
+}
+
+@media(max-width: 767px) {
+    .header {
+        display: none;
+    }
+}
+
+/* styling of crousal sction heres */
+.paragraph{
+    margin-bottom: 12em;
+}
+
+.color{
+    background-color: tomato;
+    color: white;
+}
+
+.extra{
+    text-align: center;
+    padding: 3% 0;
+}
+
+.align{
+    text-align: center;
+}
+
+.sizing
+{
+    display: flex;
+}
+
+.hover:hover{
+    background-color: white;
+    color: black;
+}
